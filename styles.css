@@ -5,9 +5,8 @@
 }
 
 .main {
-    font-family: "Roboto", sans-serif;
-    font-size: 22px;
-    font-weight: 300;
+    font-family: sans-serif;
     text-align: center;
-    margin: 15% 15% 30% 15%;
+    line-height: 140%;
+    margin: 0 15%;
 }
