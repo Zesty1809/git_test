@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+    
+}
+
+.main {
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    margin: 15% 15% 30% 15%;
+}
